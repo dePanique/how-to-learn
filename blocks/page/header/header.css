@@ -1,0 +1,19 @@
+@import url(./../header/__link/header__link.css);
+@import url(./../header/__main-illustration/header__main-illustration.css);
+@import url(./../header/__square-pic/header__square-pic.css);
+@import url(./../header/__subtitle/header__subtitle-pic.css);
+@import url(./../header/__title/header__title.css);
+@import url(./../logo/logo.css);
+@import url(./../logo/_header/logo_header.css);
+@import url(./../../page/header/__title/header__title.css);
+
+.header {
+  height: 756px;
+  min-height: 600px;
+  max-height: 756px;
+  margin: 0;
+  padding: 0;
+  border: 3px yellow solid;
+  display: flex;
+  align-items: center;
+}

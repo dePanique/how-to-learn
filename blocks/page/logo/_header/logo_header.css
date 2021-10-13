@@ -1,0 +1,11 @@
+.logo_header {
+  background-image: url(./../../../../images/yandex_logo/yandex_logo.svg);
+  border: solid red 3px;
+  width: 183px;
+  height: 32px;
+  top: 30px;
+  left: 64px;
+  position: absolute;
+  z-index: 3;
+
+}

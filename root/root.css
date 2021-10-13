@@ -1,0 +1,17 @@
+@import url(./../vendor/fonts/fonts.css);
+
+.root {
+  font-family: 'Inter';
+}
+
+.inter-normal {
+  font-weight: 400;
+}
+
+.inter-semi {
+  font-weight: 500;
+}
+
+.inter-bold {
+  font-weight: 600;
+}
