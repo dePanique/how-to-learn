@@ -1,0 +1,10 @@
+.techniques {
+  border: 5px red solid;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  min-width: 120px;
+  align-items: center;
+  box-sizing: border-box;
+}

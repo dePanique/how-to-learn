@@ -1,0 +1,15 @@
+.cards__item {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+  max-width: 240px;
+}
+
+.cards__image:only-of-type {
+  margin: 60px 40px 43px;
+}
+
+.cards__title:only-of-type {
+  margin-bottom: 16px;
+}

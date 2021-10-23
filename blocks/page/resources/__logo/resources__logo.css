@@ -1,0 +1,7 @@
+.resources__logo {
+  border: 1px orange solid;
+  width: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

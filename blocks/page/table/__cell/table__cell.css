@@ -1,0 +1,10 @@
+@import url(./../__cell/_dark-theme/table__cell_dark-theme.css);
+
+.table__cell {
+  border: 3px green solid;
+  min-height: 100px;
+  width: 250px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+}
