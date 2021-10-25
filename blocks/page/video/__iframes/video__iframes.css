@@ -1,5 +1,4 @@
 .video__iframes {
-  border: 3px red solid;
   display: flex;
   flex-direction: row;
   width: 1050px;

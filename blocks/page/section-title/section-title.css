@@ -1,7 +1,4 @@
-@import url(./../section-title/_theme-dark/section-title_theme-dark.css);
-
 .section-title {
-  border: 2px green solid;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -9,4 +6,5 @@
   margin: 0;
   padding: 0;
   text-align: center;
+  z-index: 1;
 }
