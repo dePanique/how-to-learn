@@ -3,7 +3,5 @@
   flex-direction: row;
   justify-content: space-between;
   width: 90%;
-  margin: auto;
-  margin-top: 60px;
-  margin-bottom: 40px;
+  margin: 0 auto;
 }

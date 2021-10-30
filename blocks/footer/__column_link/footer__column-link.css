@@ -2,4 +2,18 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: 400;
+  opacity: 1;
+  transition: opacity 1s ease .05s;
+  color: #f1f1f1;
+  text-decoration: none;
+  margin-block-start: 0;
+  margin-block-end: 10px;
 }
+
+.footer__column-link:hover {
+  opacity: .61;
+}
+
+.footer__column-link:last-child {
+  margin-bottom: 0;
+ }

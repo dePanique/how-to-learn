@@ -1,5 +1,9 @@
 .kaufman__triangle {
   position: absolute;
-  z-index: 0;
   right: -210px;
+  background-image: url(./../../../images/kaufman-triangle.svg);
+  /*Далее с разрешения vhaldemario (Владимир Санников) идут размеры, в брифе у нас их нет*/
+  width: 995px;
+  height: 1006px;
+  z-index: 0;
 }

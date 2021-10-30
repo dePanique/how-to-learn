@@ -1,7 +1,0 @@
-@import url(./../vendor/fonts/fonts.css);
-
-.root {
-  font-family: 'Inter', 'Arial', sans-serif;
-  overflow-x: hidden;
-  min-width: 1100px;
-}
